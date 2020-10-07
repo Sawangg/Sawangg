@@ -28,7 +28,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawangg" alt="sawangg" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawangg&layout=compact" alt="sawangg" /></p><br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sawangg&show_icons=true" alt="sawangg" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawangg&layout=compact" alt="sawangg" /></p>
