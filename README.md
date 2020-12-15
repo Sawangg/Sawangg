@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my profile 👋</h1>
-<h3 align="center">I'm a passionate developer from France <img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1eb-1f1f7.png.pagespeed.ic.zH5CTRZt1F.png" alt="fr" width="20" height="20"/></h3>
+<h2 align="center">I'm a passionate developer from France <img src="https://www.emojibase.com/resources/img/emojis/apple/x1f1eb-1f1f7.png.pagespeed.ic.zH5CTRZt1F.png" alt="fr" width="20" height="20"/></h2>
+<h3 align="center">I'm a fullstack web developer that loves JavaScript</h3>
 
 - 🔭 I’m currently working on **my school's projects**
 
@@ -24,13 +25,11 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.rust-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawangg" alt="sawangg" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawangg&layout=compact" alt="sawangg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawangg" alt="sawangg" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sawangg&show_icons=true&locale=en" alt="sawangg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sawangg&" alt="sawangg" /></p>
