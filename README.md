@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my school's projects**
 
-- 🌱 I’m currently learning **Kotlin** and improving on **ReactJS**
+- 🌱 I’m currently learning **TypeScript** and improving on **ReactJS**
 
 - 💬 Ask me about **any JavaScript related question**
 
