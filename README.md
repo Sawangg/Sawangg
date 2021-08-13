@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **any JavaScript related question**
 
-- 📫 Reach me here **leo.mercier1@etu.unilim.fr**
+- 📫 Reach me here **leo.mercier@efrei.net**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
