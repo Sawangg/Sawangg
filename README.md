@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python** and improving on **TypeScript**
 
-- 💬 Ask me about **any JavaScript related question**
+- 💬 Ask me about **any JavaScript or TypeScript related question**
 
 - 📫 Reach me here **leo.mercier@efrei.net**
 
