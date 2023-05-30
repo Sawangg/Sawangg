@@ -1,8 +1,7 @@
-<h1 align="center">Welcome to my profile 👋</h1>
-<h3 align="center">I'm a fullstack web developer that loves everything that is related to the Web</h3>
 <img src="https://komarev.com/ghpvc/?username=sawangg" alt="sawangg_profile_count" />
 
-- 🌱 I’m currently learning **Python** and improving on **TypeScript**
+<h1 align="center">Welcome to my profile 👋</h1>
+<h3 align="center">I'm a fullstack software engineer that loves everything that is related to the Web</h3>
 
 - 📫 Reach me here **leo.mercier@efrei.net**
 
