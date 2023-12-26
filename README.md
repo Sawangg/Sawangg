@@ -45,7 +45,7 @@
 <a href="https://vercel.com/" target="_blank"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40" /></a>
 <br />
 <br />
-<p>→Others</p>
+<p>→ Others</p>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /></a>
 <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
