@@ -49,7 +49,7 @@
 <p>→ Others</p>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /></a>
 <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
-<a href="https://fr.wikipedia.org/wiki/Vim" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" /></a>
+<a href="https://wikipedia.org/wiki/Vim" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 
 <h3>Stats:</h3>
