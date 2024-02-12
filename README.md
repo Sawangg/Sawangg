@@ -40,14 +40,14 @@
 <a href="https://www.docker.com/" title="Docker" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/docker/docker-original.svg" alt="docker" width="45" height="45" /></a>
 <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" /></a>
 <a href="https://www.terraform.io/" title="Terraform" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /></a>
-<a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
+<a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
 <a href="https://portal.azure.com/" title="Azure" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35" /></a>
 <a href="https://cloud.google.com/" title="Google Cloud" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40" /></a>
 <a href="https://vercel.com/" title="Vercel" target="_blank"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40" /></a>
 <br />
 <br />
 <p>→ Others</p>
-<a href="https://tailwindcss.com/" title="TailwindCSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /></a>
+<a href="https://tailwindcss.com/" title="TailwindCSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /></a>
 <a href="https://archlinux.org/" title="I use Arch btw" target="_blank"> <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="i_use_arch_btw" width="40" height="40" /></a>
 <a href="https://neovim.io/" title="Neovim" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40" /></a>
 <a href="https://git-scm.com/" title="Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
