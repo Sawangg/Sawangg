@@ -48,7 +48,7 @@
 <br />
 <p>→ Others</p>
 <a href="https://tailwindcss.com/" title="TailwindCSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /></a>
-<a href="https://archlinux.org/" title="I use Arch btw" target="_blank"> <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="i_use_arch_btw" width="40" height="40" /></a>
+<a href="https://artixlinux.org/" title="I use Artix btw" target="_blank"> <img src="https://artixlinux.org/img/artix-logo.png" alt="i_use_arch_btw" width="40" height="40" /></a>
 <a href="https://neovim.io/" title="Neovim" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40" /></a>
 <a href="https://git-scm.com/" title="Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://graphql.org/" title="GraphQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
