@@ -9,7 +9,6 @@
 
 <p>→ Languages</p>
 <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-<a href="https://nodejs.org" title="NodeJS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
 <a href="https://www.w3.org/html/" title="HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
 <a href="https://www.java.com" title="Nightmare" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/cpp/" title="C++" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
@@ -48,6 +47,7 @@
 <br />
 <br />
 <p>→ Others</p>
+<a href="https://nodejs.org" title="NodeJS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" title="TailwindCSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /></a>
 <a href="https://artixlinux.org/" title="I use Artix btw" target="_blank"> <img src="https://artixlinux.org/img/artix-logo.png" alt="i_use_arch_btw" width="40" height="40" /></a>
 <a href="https://neovim.io/" title="Neovim" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40" /></a>
