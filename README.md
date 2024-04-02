@@ -3,7 +3,7 @@
 <h1 align="center">Hello there 👋</h1>
 <h4 align="center">I'm a software engineer that loves everything related to the Web</h4>
 
-📫 Reach me here <code>leo.mercier@efrei.net</code>
+📫 Reach me here <code>le1112osee@gmail.com</code>
 
 <h3>List of tools I've worked with:</h3>
 
@@ -12,6 +12,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 <a href="https://www.java.com" title="Nightmare" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
 <a href="https://www.w3.org/html/" title="HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
+<a href="https://www.w3.org/Style/CSS/" title="CSS3" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/cpp/" title="C++" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
 <a href="https://kotlinlang.org" title="Kotlin" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
@@ -51,6 +52,7 @@
 <a href="https://tailwindcss.com/" title="TailwindCSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /></a>
 <a href="https://artixlinux.org/" title="I use Artix btw" target="_blank"> <img src="https://artixlinux.org/img/artix-logo.png" alt="i_use_arch_btw" width="40" height="40" /></a>
 <a href="https://neovim.io/" title="Neovim" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40" /></a>
+<a href="https://code.visualstudio.com/" title="VSCode" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></a>
 <a href="https://git-scm.com/" title="Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://graphql.org/" title="GraphQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
 
