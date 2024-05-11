@@ -20,7 +20,7 @@
 <a href="https://www.rust-lang.org" title="Rust" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
 <a href="https://www.python.org/" title="Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-<a href="https://www.lua.org/" title="Lua" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" /></a>
+<a href="https://www.lua.org/" title="Lua" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg" alt="lua" width="40" height="40" /></a>
 <br />
 <br />
 <p>→ Frontend tools</p>
