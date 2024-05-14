@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=sawangg" alt="sawangg_profile_count" />
 
 <h1 align="center">Hello there 👋</h1>
-<h4 align="center">I'm a software engineer that loves everything related to the Web</h4>
+<h4 align="center">I'm a software engineer that uses Neovim btw</h4>
 
 📫 Reach me here <code>le1112osee@gmail.com</code>
 
