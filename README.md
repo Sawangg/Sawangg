@@ -27,7 +27,7 @@
 <a href="https://nextjs.org/" title="NextJS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" /></a>
 <a href="https://reactjs.org/" title="ReactJS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /></a>
 <a href="https://vuejs.org/" title="VueJS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" /></a>
-<a href="https://astro.build/" title="Astro" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="expo" width="40" height="40" /></a>
+<a href="https://astro.build/" title="Astro" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40" /></a>
 <a href="https://expo.dev/" title="Expo" target="_blank"> <img src="https://img.icons8.com/?size=256&id=7ImWFDcPfSlz&format=png" alt="expo" width="40" height="40" /></a>
 <br />
 <br />
