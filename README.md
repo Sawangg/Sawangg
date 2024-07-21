@@ -36,12 +36,14 @@
 <a href="https://www.mysql.com/" title="MySQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
 <a href="https://cassandra.apache.org/_/index.html" title="Cassandra" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="cassandra" width="50" height="40" /></a>
+<a href="https://redis.io/" title="Redis" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
 <br />
 <br />
 <p>→ DevOps</p>
 <a href="https://www.docker.com/" title="Docker" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/docker/docker-original.svg" alt="docker" width="45" height="45" /></a>
 <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" /></a>
 <a href="https://www.terraform.io/" title="Terraform" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /></a>
+<a href="https://www.ansible.com/" title="Ansible" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" /></a>
 <a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
 <a href="https://portal.azure.com/" title="Azure" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35" /></a>
 <a href="https://cloud.google.com/" title="Google Cloud" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40" /></a>
