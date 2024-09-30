@@ -62,4 +62,3 @@
 
 <h3>Stats:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawangg" alt="" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sawangg&show_icons=true&locale=en" alt="" />
