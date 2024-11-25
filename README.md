@@ -3,7 +3,7 @@
 <h1 align="center">Hello there 👋</h1>
 <h4 align="center">I'm a software engineer that uses Neovim btw</h4>
 
-📫 Reach me here <code>leo.mercier1@proton.me</code>
+📫 Reach me here <code>contact@leomercier.dev</code>
 
 <h3>List of things I've worked with:</h3>
 
