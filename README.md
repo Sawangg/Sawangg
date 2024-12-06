@@ -39,6 +39,7 @@
 <a href="https://cassandra.apache.org/_/index.html" title="Cassandra" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="cassandra" width="50" height="40" /></a>
 <a href="https://redis.io/" title="Redis" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
 <a href="https://graphql.org/" title="GraphQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
+<a href="https://kafka.apache.org/" title="Apache Kafka" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40" /></a>
 <br />
 <br />
 <p>→ DevOps</p>
