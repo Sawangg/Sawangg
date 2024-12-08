@@ -2,9 +2,12 @@
 
 <h1 align="center">Hello there 👋</h1>
 <h4 align="center">I'm a software engineer that uses Neovim btw</h4>
+<br />
 
-📫 Reach me here <code>contact@leomercier.dev</code>
+📫 Reach me here <code>contact@leomercier.dev</code>  
 
+📖 Read what I've been doing here <code><a href="https://leomercier.blog" title="blog" target="_blank">leomercier.blog</a></code>  
+<br />
 <h3>List of things I've worked with:</h3>
 
 <p>→ Languages</p>
