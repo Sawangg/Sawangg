@@ -4,10 +4,13 @@
 <h4 align="center">I'm a software engineer that uses Neovim btw</h4>
 <br />
 
-📫 Reach me here <code>contact@leomercier.dev</code>  
+🎨 Look at my portfolio here <code><a href="https://leomercier.dev" title="portfolio" target="_blank">leomercier.dev</a></code>  
 
 📖 Read what I've been doing here <code><a href="https://leomercier.blog" title="blog" target="_blank">leomercier.blog</a></code>  
+
+📫 Reach me here <code>contact@leomercier.dev</code>  
 <br />
+
 ## List of things I've worked with:
 
 <p>→ Languages</p>
