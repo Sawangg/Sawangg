@@ -8,7 +8,7 @@
 
 📖 Read what I've been doing here <code><a href="https://leomercier.blog" title="blog" target="_blank">leomercier.blog</a></code>  
 
-📫 Reach me here <code>contact@leomercier.dev</code>  
+📫 Reach me here <code>hi@leomercier.dev</code>  
 <br />
 
 ## List of things I've worked with:
