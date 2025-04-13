@@ -51,6 +51,7 @@
 <p>→ DevOps</p>
 <a href="https://www.docker.com/" title="Docker" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.12.0/icons/docker/docker-original.svg" alt="docker" width="45" height="45" /></a>
 <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" /></a>
+<a href="https://fluxcd.io/" title="FluxCD" target="_blank"> <img src="https://avatars.githubusercontent.com/u/52158677" alt="fluxcd" width="50" height="40" /></a>
 <a href="https://www.terraform.io/" title="Terraform" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /></a>
 <a href="https://www.ansible.com/" title="Ansible" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" /></a>
 <a href="https://vercel.com/" title="Vercel" target="_blank"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40" /></a>
