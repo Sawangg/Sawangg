@@ -6,7 +6,7 @@
 
 🎨 Look at my portfolio here <code><a href="https://leomercier.dev" title="portfolio" target="_blank">leomercier.dev</a></code>  
 
-📖 Read what I've been doing here <code><a href="https://leomercier.blog" title="blog" target="_blank">leomercier.blog</a></code>  
+📖 Read what I've been doing here <code><a href="https://blog.leomercier.dev" title="blog" target="_blank">leomercier.blog</a></code>  
 
 📫 Reach me here <code>hi@leomercier.dev</code>  
 <br />
