@@ -20,8 +20,8 @@
 <a href="https://www.w3.org/html/" title="HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
 <a href="https://www.w3.org/Style/CSS/" title="CSS3" target="_blank"> <img src="https://raw.githubusercontent.com/CSS-Next/logo.css/refs/heads/main/css.svg" alt="css3" width="40" height="40" /></a>
 <a href="https://www.rust-lang.org" title="Rust" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" /></a>
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
 <a href="https://www.python.org/" title="Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
 <a href="https://www.lua.org/" title="Lua" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" /></a>
 <a href="https://kotlinlang.org/" title="Kotlin" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/cpp/" title="C++" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
