@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=sawangg" alt="sawangg_profile_count" />
 
 <h1 align="center">Hello there 👋</h1>
-<h4 align="center">I'm a software engineer that uses Arch & Neovim btw</h4>
+<h4 align="center">I'm a software engineer that uses Artix & Neovim btw</h4>
 <br />
 
 🎨 Look at my portfolio here <code><a href="https://leomercier.dev" title="portfolio" target="_blank">leomercier.dev</a></code>  
@@ -42,7 +42,7 @@
 <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" title="MySQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-<a href="https://cassandra.apache.org/_/index.html" title="Cassandra" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="cassandra" width="50" height="40" /></a>
+<a href="https://cassandra.apache.org/_/index.html" title="Cassandra" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="50" height="40" /></a>
 <a href="https://redis.io/" title="Redis" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
 <a href="https://graphql.org/" title="GraphQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
 <a href="https://kafka.apache.org/" title="Apache Kafka" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40" /></a>
