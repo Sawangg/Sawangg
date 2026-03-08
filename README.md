@@ -68,9 +68,3 @@
 <a href="https://neovim.io/" title="Neovim" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com/" title="VSCode" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></a>
 <a href="https://git-scm.com/" title="Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-
-##  Tip jar:
-
-Feel free to donate if you found my content useful!
-
-XMR: `83xne7cuqqdKNLNTK5MoPGimajHrg8SNqBSsXC71azn44uoskuaopyiZrk2F6c4L2vNQh7S1H1bgeLxkdbhoSNfm2NGRoWF`
