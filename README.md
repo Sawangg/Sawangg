@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=sawangg" alt="sawangg_profile_count" />
 
 <h1 align="center">Hello there 👋</h1>
-<h4 align="center">I'm a software engineer that uses Artix & Neovim btw</h4>
+<h4 align="center">I'm a site reliability engineer that uses Artix & Neovim btw</h4>
 <br />
 
 🎨 Look at my portfolio here <code><a href="https://leomercier.dev" title="portfolio" target="_blank">leomercier.dev</a></code>  
