@@ -59,7 +59,6 @@
 <a href="https://www.ansible.com/" title="Ansible" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" align="left" /></a>
 <a href="https://vercel.com/" title="Vercel" target="_blank"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40" align="left" /></a>
 <a href="https://aws.amazon.com/" title="AWS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" align="left" /></a>
-<a href="https://portal.azure.com/" title="Azure" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35" align="left" /></a>
 <a href="https://cloud.google.com/" title="Google Cloud" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40" align="left" /></a>
 <a href="https://cloudflare.com/" title="Cloudflare" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40" align="left" /></a>
 <br clear="left" />
